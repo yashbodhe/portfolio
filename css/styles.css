@@ -148,21 +148,21 @@ sup {
 }
 
 a {
-  color: #55bda5;
+  color: #383838;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #55bda5;
+  color: #383838;
   text-decoration: underline;
 }
 
 a:not([href]):not([class]) {
-  color: #55bda5;
+  color: #383838;
   text-decoration: none;
 }
 a:not([href]):not([class]):hover {
-  color: #55bda5;
+  color: #383838;
   text-decoration: none;
 }
 
@@ -6064,7 +6064,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #55bda5 !important;
+  background-color: #383838 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9766,7 +9766,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #55bda5 !important;
+  color: #383838 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9798,7 +9798,7 @@ a.text-info:hover, a.text-info:focus {
 }
 
 .text-warning {
-  color: #55bda5 !important;
+  color: #383838 !important;
 }
 
 a.text-warning:hover, a.text-warning:focus {
@@ -10068,7 +10068,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #55bda5;
+  background-color: #383838;
 }
 
 .dev-icons {
